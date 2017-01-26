@@ -18,7 +18,7 @@ XZD.
 
 2.  Initialize Repo
 
-        repo init -u http://sanjay/scm/git/Xilinx/XZD_yocto-manifests -m xzd.xml
+        repo init -u https://github.com/dornerworks/xzd-yocto-manifests -m xzd.xml
 
 3.  Clone Repos
 
