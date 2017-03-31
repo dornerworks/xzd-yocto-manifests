@@ -11,12 +11,12 @@
 
   <default sync-j="4"/>
 
-  <project remote="dw"     revision="master"      name="xzd-yocto-scripts"        path="."/>
+  <project remote="dw"     revision="dw-v2016.4"  name="xzd-yocto-scripts"        path="."/>
   <project remote="oe"     revision="krogoth"     name="meta-openembedded"        path="sources/meta-openembedded"/>
   <project remote="qt5"    revision="krogoth"     name="meta-qt5"                 path="sources/meta-qt5"/>
   <project remote="linaro" revision="krogoth"     name="meta-linaro"              path="sources/meta-linaro"/>
   <project remote="yocto"  revision="krogoth"     name="meta-virtualization"      path="sources/meta-virtualization"/>
-  <project remote="dw"     revision="master"      name="meta-xzd"
+  <project remote="dw"     revision="dw-v2016.4"  name="meta-xzd"
     path="sources/meta-xzd"/>
   <project remote="yocto"  revision="krogoth"     name="poky"                     path="sources/poky"/>
   <project remote="oe"     revision="1.30"        name="bitbake"                  path="sources/poky/bitbake"/>
