@@ -5,12 +5,12 @@
 
   <default sync-j="4"/>
 
-  <project remote="dw"     revision="XZD_20170401"      name="xzd-yocto-scripts"        path="."/>
+  <project remote="dw"     revision="XZD_20170601"      name="xzd-yocto-scripts"        path="."/>
   <project remote="xilinx"     revision="rel-v2017.1"     name="meta-openembedded"        path="sources/meta-openembedded"/>
   <project remote="xilinx"    revision="rel-v2017.1"     name="meta-qt5"                 path="sources/meta-qt5"/>
   <project remote="xilinx" revision="rel-v2017.1"     name="meta-linaro"              path="sources/meta-linaro"/>
   <project remote="xilinx"  revision="rel-v2017.1"     name="meta-virtualization"      path="sources/meta-virtualization"/>
-  <project remote="dw"     revision="XZD_20170401"      name="meta-xzd"
+  <project remote="dw"     revision="XZD_20170601"      name="meta-xzd"
     path="sources/meta-xzd"/>
   <project remote="xilinx"  revision="rel-v2017.1"     name="poky"                     path="sources/core"/>
   <project remote="xilinx"     revision="rel-v2017.1"        name="bitbake"                  path="sources/core/bitbake"/>
