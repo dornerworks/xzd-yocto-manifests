@@ -18,7 +18,7 @@ XZD.
 
 2.  Initialize Repo
 
-        repo init -u https://github.com/dornerworks/xzd-yocto-manifests -b XZD_20180131 -m xzd.xml
+        repo init -u https://github.com/dornerworks/xzd-yocto-manifests -b XZD_20190808 -m xzd.xml
 
 3.  Clone Repos
 
